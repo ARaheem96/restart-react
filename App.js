@@ -1,4 +1,8 @@
-        //    <div id ="parent">
+       import React from "react";
+       import ReactDOM from "react-dom/client";
+       
+       
+       //    <div id ="parent">
         //     <div id ="child1">
         //         <h1>I am the king</h1>
         //         <h2> So Don't worry </h2>
